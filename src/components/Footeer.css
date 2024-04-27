@@ -1,0 +1,47 @@
+.footeer {
+  background: rgb(245, 245, 245);
+  padding: 31px;
+}
+.footeer_inner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+li {
+  list-style: none;
+}
+.icn {
+  color: red;
+  margin-right: 5px;
+}
+#email {
+  width: 210px;
+  height: 40px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  outline: none;
+  border: 1px solid rgb(237, 22, 95);
+}
+.btn {
+  width: 61px;
+  height: 40px;
+  padding: 13px;
+  background: rgb(237, 22, 95);
+  border: 1px solid rgb(237, 22, 95);
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.inpEmail {
+  display: flex;
+  height: 40px;
+}
+
+li {
+  color: rgb(0, 0, 0);
+  font-family: Muli;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  text-align: left;
+}

@@ -1,0 +1,79 @@
+.section {
+  width: 1050px;
+  margin: 0 auto;
+}
+.registr {
+  display: flex;
+  justify-content: space-between;
+}
+.create {
+  width: 400px;
+}
+.sign {
+  width: 400px;
+}
+#check {
+  width: 15px;
+  margin-bottom: 35px;
+  margin-top: 16px;
+}
+input {
+  width: 100%;
+  padding: 14px;
+  box-sizing: border-box;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 6px;
+}
+.holder {
+  display: flex;
+  align-items: start;
+  margin-top: 16px;
+  margin-bottom: 35px;
+}
+#checkbox {
+  width: 15px;
+}
+.button {
+  display: block;
+  width: 400px;
+  padding: 12px;
+  margin-bottom: 30px;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 2px;
+  border-radius: 6px;
+  background: rgb(237, 22, 95);
+  border: none;
+  border: 1px solid rgb(237, 22, 95);
+}
+.button:hover {
+  background-color: white;
+  color: rgb(237, 22, 95);
+}
+h4 {
+  color: rgb(0, 0, 0);
+  font-family: Muli;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  text-align: left;
+}
+.subtitle {
+  color: rgb(0, 0, 0);
+  font-family: Muli;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  text-align: left;
+}
+.forget {
+  border-bottom: 1px solid black;
+  width: 30%;
+}
+h1 {
+  margin-top: 64px;
+}
